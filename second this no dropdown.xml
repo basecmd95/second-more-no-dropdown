@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive Dropdown Menu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: transparent;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: transparent;
+            display: flex;
+            justify-content: center;
+        }
+
+        li {
+            float: none;
+            display: inline-block;
+        }
+
+        li a {
+            display: inline-block;
+            color: red;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="https://www.basecmd95.site/2023/06/basic-menu-link-code-full-with-css.html"><i class="fas fa-shield-alt"></i> Modifield </a>
+                </li>
+                <li>
+                    <a href="https://www.basecmd95.site/2023/06/basic-menu-link-code-full-with-css.html"><i class="fas fa-home"></i> HOME </a>
+                </li>
+                <li>
+                    <a href="https://www.basecmd95.site/2023/06/basic-menu-link-code-full-with-css.html"><i class="fas fa-baby"></i> Download </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"></script>
+</body>
+</html>
